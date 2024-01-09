@@ -1,9 +1,4 @@
 # to build jar file
-```bash
-mkdir -p demo && pulumi new java --dir demo
-```
-accept everything default
-
 
 ```bash
 cd demo/
