@@ -1,3 +1,0 @@
-name: demo
-runtime: java
-description: A minimal Java Pulumi program with Maven builds
