@@ -1,0 +1,6 @@
+name: myproject
+runtime:
+  name: java
+  options:
+    binary: compiled.jar
+description: A minimal Java Pulumi program
