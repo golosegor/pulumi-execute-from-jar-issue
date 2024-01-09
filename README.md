@@ -14,5 +14,5 @@ pulumi up
 # to make repro
 ```bash
 cd repro-folder
-pulumi up
+pulumi up --logtostderr --logflow -v=11 2> out.txt
 ```
