@@ -8,6 +8,7 @@ accept everything default
 ```bash
 cd demo/
 pulumi up
+mvn package
 ```
 
 
